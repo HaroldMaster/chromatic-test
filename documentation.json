@@ -146,7 +146,7 @@
             "assetsDirs": [],
             "styleUrlsData": [
                 {
-                    "data": "p {\n    color:red\n}",
+                    "data": "p {\n    color:red;\n    font-size: 100px;\n    margin: 1px solid blue;\n}",
                     "styleUrl": "./component-one.component.scss"
                 }
             ],
